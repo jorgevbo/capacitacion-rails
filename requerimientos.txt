@@ -1,7 +1,7 @@
-Aplicación para el registros iniciativas
+Aplicación para el registros de iniciativas
 
 * Necesitamos un lugar donde nuestro personal pueda registrar y proponer iniciativas que se puedan aplicar dentro de la empresa.
-* Estas iniciativas serán propuestas a votación del personal, de manera que podemos saber cuales son las que ellos considera que deben ser abordadas.
+* Estas iniciativas serán propuestas a votación del personal, de manera que podamos saber cuales son las que ellos considera que deben ser abordadas.
 
 * Las iniciativas son ideas que pueden ayudar a mejorar la organización, ya sea:
   - De forma general (Ej, ideas para mejorar el ambiente de trabajo)
@@ -19,5 +19,5 @@ Aplicación para el registros iniciativas
 * Una vez haya votado, se deshabilitarán las otra opciones y solo se mostrará la que eligió. No podrá modificar su voto.
 * La votación de la iniciativa será cerrada en la fecha de fin definido, o podrá ser cerrada por un administrador.
 
-* Se presentará un listado de todas las iniciativas cerradas para que se puede consultar los resultados de las mismas.
-* El administrador podrá editar los datos de las iniciativas cerradas para actualizar el desarrollo que tiene dentro de la organización
+* Se presentará un listado de todas las iniciativas cerradas para que se puedan consultar los resultados de las mismas.
+* El administrador podrá editar los datos de las iniciativas cerradas para actualizar el desarrollo que tienen dentro de la organización
